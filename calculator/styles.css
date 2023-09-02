@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .calculator {
+    width: 240px;
+    margin: 100px auto;
+    text-align: center;
+  }
+  
+  input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 18px;
+  }
+  
+  button {
+    width: 50px;
+    height: 50px;
+    font-size: 18px;
+    margin: 5px;
+  }
+  
+  .number {
+    background-color: #f2f2f2;
+  }
+  
+  .operation {
+    background-color: #f39c12;
+    color: white;
+  }
+  
+  .equals {
+    background-color: #3498db;
+    color: white;
+  }
+  
+  .clear {
+    background-color: #e74c3c;
+    color: white;
+  }
+  
